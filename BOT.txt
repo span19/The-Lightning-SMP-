@@ -1,0 +1,5 @@
+{
+	"ip":"TheLightningserve7gz.aternos.me",
+	"port": "52234",
+	"name": "afkbot"
+}
